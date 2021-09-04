@@ -1,0 +1,19 @@
+body {
+    background-color: #04a6eb;  /* 背景の配色 */
+    color: #fdffff;             /* 文字の配色 */
+    width: 500px;           /* ピクセル */
+    margin-right: auto;     /* 右側のマージン */
+    margin-left : auto;     /* 左側のマージン */
+}
+
+button { /* ボタンのcss */
+    padding: 5px 20px;            /* 要素(ボタン)の内側の空白 */
+    background-color: #337ab7;
+    color: #fdffff;
+    border-color: #2e6da4;      /* 境界線の色 */
+    border-style: none;           /* 境界線(今回は設定しない) */
+}
+
+input { /* 打ち込み枠のcss */
+    height: 25px;
+}
